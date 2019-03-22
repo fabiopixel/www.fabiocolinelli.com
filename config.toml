@@ -1,0 +1,5 @@
+baseURL = "https://www.fabiocollinelli.com/"
+languageCode = "en-us"
+title = "www.fabiocolinelli.com"
+theme = "ananke"
+publishDir = "docs"
