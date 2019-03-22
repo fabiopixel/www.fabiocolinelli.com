@@ -1,4 +1,4 @@
-baseURL = "https://www.fabiocollinelli.com/"
+baseURL = "https://www.fabiocolinelli.com/"
 languageCode = "en-us"
 title = "www.fabiocolinelli.com"
 theme = "hugo-split-theme"
