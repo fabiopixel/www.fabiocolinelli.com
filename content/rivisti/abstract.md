@@ -7,11 +7,11 @@ showonlyimage = false
 weight = 999
 +++
 
-I rivisti sono una serie di tavole che ripropongono alcune grandi opere dei maestri della pittura filtrate da una visione ironica di Pixel e, dal 26 ottobre al 10 novembre, presso la galleria d’arte “a Casa di Paola”, saranno esposti stampate su tela pittorica. 
+I rivisti ripropongono alcune grandi opere dei maestri della pittura filtrate da una visione ironica
 
 <!--more-->
 
-L’esposizione si trova in piazza a Forlimpopoli proprio di fronte alla rocca.
+Dal 26 ottobre al 10 novembre, presso la galleria d’arte “a Casa di Paola”, i rivisti saranno esposti su tela pittorica. 
 
-![Gadget in vendita](https://www.instagram.com/p/BzBQStbo_35/media/?size=l)
+![Gadgets](https://www.instagram.com/p/BzBQStbo_35/media/?size=l)
 
