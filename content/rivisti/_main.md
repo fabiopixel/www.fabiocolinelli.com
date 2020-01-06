@@ -2,7 +2,7 @@
 date = "2020-01-01T19:00:00+00:00"
 title = "I rivisti"
 draft = false
-image = ""
+image = "img/rivisti/copertina.jpg"
 showonlyimage = false
 weight = 999
 +++

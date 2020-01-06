@@ -44,28 +44,28 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = "home/"
   home = true
 
-  [[params.navlinks]]
-  name = "Hollywood & C."
-  url = "hollywood/"
+  #[[params.navlinks]]
+  #name = "Hollywood & C."
+  #url = "hollywood/"
 
   [[params.navlinks]]
   name = "I rivisti"
   url = "rivisti/"
 
-  [[params.navlinks]]
-  name = "All the rest"
-  url = "all-the-rest/"
+  #[[params.navlinks]]
+  #name = "All the rest"
+  #url = "all-the-rest/"
 
   [[params.navlinks]]
   name = "About"
   url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  #[[params.navlinks]]
+  #name = "Get in touch"
+  #url = "contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/fabio.p.colinelli"
