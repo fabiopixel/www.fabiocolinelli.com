@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work2/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work3/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work3/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work4/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work4/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work5/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work5/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work6/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work6/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work7/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work7/</loc>
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url>
   
@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work8/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work8/</loc>
     <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
@@ -78,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work9/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work9/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
@@ -88,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work10/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work10/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
   
@@ -98,7 +98,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/work11/</loc>
+    <loc>https://www.fabiocolinelli.com/home/work11/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
@@ -128,7 +128,17 @@
   </url>
   
   <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/ettore-e-andromaca/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fabiocolinelli.com/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/frida/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -138,7 +148,17 @@
   </url>
   
   <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/pifferaio/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fabiocolinelli.com/rivisti/gioconda/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/la-lattaia/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -153,27 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/ettore-e-andromaca/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/frida/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/lattaia/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.fabiocolinelli.com/rivisti/madonna-di-ognissanti/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/pifferaio/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/portfolio/</loc>
+    <loc>https://www.fabiocolinelli.com/home/</loc>
     <lastmod>2016-11-05T20:23:59+05:30</lastmod>
   </url>
   
