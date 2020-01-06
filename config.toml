@@ -1,5 +1,5 @@
 baseurl = "https://www.fabiocolinelli.com/"
-title = "Fabio Collinelli"
+title = "Fabio Colinelli"
 theme = "hugo-creative-portfolio-theme"
 publishDir = "docs"
 languageCode = "it-it"
