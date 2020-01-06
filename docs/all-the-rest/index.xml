@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All-the-rests on Fabio Collinelli</title>
+    <link>https://www.fabiocolinelli.com/all-the-rest/</link>
+    <description>Recent content in All-the-rests on Fabio Collinelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 01 Jan 2020 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.fabiocolinelli.com/all-the-rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Name of the work 1</title>
+      <link>https://www.fabiocolinelli.com/all-the-rest/harry/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/all-the-rest/harry/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
