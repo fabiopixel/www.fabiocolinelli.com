@@ -3,19 +3,18 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+Amante del disegno a fumetti, si definisce uno che scarabocchia personaggi.
+Negli anni Ottanta si avvicina all’informatica e alla grafica digitale.
 
-![This is me][1]
+![](/img/about.jpg)
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Realizza fondali per opere teatrali, locandine e manifesti sempre mediante l’utilizzo del PC.
 
-#### Education
+Nel 2000 inizia a utilizzare come sistema operativo GNU/Linux e relatici software di pittura ed elaborazione grafica open source.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Con la pittura digitale e un tratto decisamente inconfondibile crea la sua arte.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Utilizzando le tecnologie più evolute, trasporta i “pixel” su tela pittorica con risultati notevoli e di sicuro impatto.
 
-[1]: /img/about.jpg
+I suo i lavori si caratterizzano per gli occhi sferici e le espressioni dei personaggi, ogni opera diventa così una rivisitazione unica ed inconfondibile di quadri famosi.”
