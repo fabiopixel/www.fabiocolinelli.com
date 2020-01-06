@@ -42,10 +42,10 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "home/"
-  home = true
+  #[[params.navlinks]]
+  #name = "Home"
+  #url = "home/"
+  
 
   #[[params.navlinks]]
   #name = "Hollywood & C."
@@ -54,7 +54,8 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "I rivisti"
   url = "rivisti/"
-
+  home = true
+  
   #[[params.navlinks]]
   #name = "All the rest"
   #url = "all-the-rest/"
