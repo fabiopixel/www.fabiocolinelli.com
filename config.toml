@@ -15,8 +15,8 @@ googleAnalytics = ""
   description = "Personal website of Fabio Colinelli"
   copyright = "&copy;2020 Fabio Colinelli"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Cesena, currently based in Forlimpopoli."
+    "I am a creative illustrator and graphic designer with more than 30 years of experience.",
+    "Currently based in Forlimpopoli (Italy)."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -30,7 +30,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "pixel.ubuntu@gmailcom"
+  email = "fabio.pixel.colinelli@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -52,14 +52,31 @@ googleAnalytics = ""
   #url = "hollywood/"
 
   [[params.navlinks]]
-  name = "I rivisti"
+  name = "I RIVISTI"
   url = "rivisti/"
   home = true
   
-  #[[params.navlinks]]
-  #name = "All the rest"
-  #url = "all-the-rest/"
-
+  [[params.navlinks]]
+  name = "Hollywood & C."
+  url = "hollywood/"
+  #home = true
+  
+  [[params.navlinks]]
+  name = "Statue a fumetti"
+  url = "statue/"
+  #home = true
+  
+  [[params.navlinks]]
+  name = "Fumetti & C."
+  url = "fumetti/"
+  #home = true
+  
+#  [[params.navlinks]]
+ # name = "Merchandise"
+ # url = "merchandise/"
+ # home = true
+  
+  
   [[params.navlinks]]
   name = "About"
   url = "about/"
@@ -69,10 +86,10 @@ googleAnalytics = ""
   #url = "contact/"
 
   [params.social]
-  facebook      = "https://www.facebook.com/fabio.p.colinelli"
-  # googleplus    = "full profile url in googleplus"
-  email         = "pixel.ubuntu@gmailcom"
-  twitter       = "https://twitter.com/fabiocolinelli"
+  #facebook      = "https://www.facebook.com/fabio.p.colinelli"
+  facebook      = "https://www.facebook.com/ziopixel"
+  email         = "fabio.pixel.colinelli@gmail.com"
+  #twitter       = "https://twitter.com/fabiocolinelli"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
   instagram     = "https://www.instagram.com/zio_pixel/"

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statues on Fabio Colinelli</title>
+    <link>https://www.fabiocolinelli.com/statue/</link>
+    <description>Recent content in Statues on Fabio Colinelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 01 Jan 2020 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.fabiocolinelli.com/statue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statue a fumetti</title>
+      <link>https://www.fabiocolinelli.com/statue/_main/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/statue/_main/</guid>
+      <description>&lt;p&gt;Le grandi statue in chiave fumettistica.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fontana del Bacchino</title>
+      <link>https://www.fabiocolinelli.com/statue/bacco/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/statue/bacco/</guid>
+      <description>Valerio Cioli </description>
+    </item>
+    
+    <item>
+      <title>La Pietà di Michelangelo</title>
+      <link>https://www.fabiocolinelli.com/statue/pieta/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/statue/pieta/</guid>
+      <description>Michelangelo </description>
+    </item>
+    
+    <item>
+      <title>Ratto di Proserpina</title>
+      <link>https://www.fabiocolinelli.com/statue/ratto/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/statue/ratto/</guid>
+      <description>Gian Lorenzo Bernini </description>
+    </item>
+    
+  </channel>
+</rss>

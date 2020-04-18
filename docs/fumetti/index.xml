@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fumettis on Fabio Colinelli</title>
+    <link>https://www.fabiocolinelli.com/fumetti/</link>
+    <description>Recent content in Fumettis on Fabio Colinelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 01 Jan 2020 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.fabiocolinelli.com/fumetti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fumetti &amp; C.</title>
+      <link>https://www.fabiocolinelli.com/fumetti/_main/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/_main/</guid>
+      <description>&lt;p&gt;Una carrellata di personaggi fumettosi.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Diavoletto</title>
+      <link>https://www.fabiocolinelli.com/fumetti/devil/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/devil/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Gattara</title>
+      <link>https://www.fabiocolinelli.com/fumetti/gattara/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/gattara/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Hog Rider</title>
+      <link>https://www.fabiocolinelli.com/fumetti/hogri/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/hogri/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>King</title>
+      <link>https://www.fabiocolinelli.com/fumetti/re/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/re/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Kung Fox</title>
+      <link>https://www.fabiocolinelli.com/fumetti/kung/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/kung/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Panzer</title>
+      <link>https://www.fabiocolinelli.com/fumetti/panzer/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/fumetti/panzer/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
