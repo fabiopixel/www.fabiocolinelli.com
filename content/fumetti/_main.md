@@ -9,3 +9,17 @@ weight = 999
 
 Una carrellata di personaggi fumettosi.
 <!--more-->
+
+![](/img/fumetti/personaggio1.jpg)
+
+![](/img/fumetti/personaggio2.jpg)
+
+![](/img/fumetti/personaggio3.jpg)
+
+![](/img/fumetti/personaggio4.jpg)
+
+![](/img/fumetti/veterinario.jpg)
+
+![](/img/fumetti/kiss.jpg)
+
+![](/img/fumetti/frank.jpg)

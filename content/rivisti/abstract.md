@@ -13,4 +13,6 @@ Con "I RIVISTI" si ripropongono alcune grandi opere dei maestri della pittura fi
 
 Personale presso la galleria d’arte “a Casa di Paola” a Forlimpopoli. 
 
+![](/img/rivisti/mostra/p0.jpg)
+
 ![](/img/rivisti/mostra/p1.jpg)

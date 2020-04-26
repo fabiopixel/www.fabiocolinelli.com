@@ -42,14 +42,6 @@ googleAnalytics = ""
       #  hash = ""
 
   # Nav links in the side bar
-  #[[params.navlinks]]
-  #name = "Home"
-  #url = "home/"
-  
-
-  #[[params.navlinks]]
-  #name = "Hollywood & C."
-  #url = "hollywood/"
 
   [[params.navlinks]]
   name = "I RIVISTI"
@@ -59,31 +51,26 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Hollywood & C."
   url = "hollywood/"
-  #home = true
-  
+    
   [[params.navlinks]]
   name = "Statue a fumetti"
   url = "statue/"
-  #home = true
-  
+    
   [[params.navlinks]]
   name = "Fumetti & C."
   url = "fumetti/"
-  #home = true
+   
+  [[params.navlinks]]
+  name = "Merchandise"
+  url = "merchandise/"
   
-#  [[params.navlinks]]
- # name = "Merchandise"
- # url = "merchandise/"
- # home = true
-  
+  [[params.navlinks]]
+  name = "Press"
+  url = "pres/"
   
   [[params.navlinks]]
   name = "About"
   url = "about/"
-
-  #[[params.navlinks]]
-  #name = "Get in touch"
-  #url = "contact/"
 
   [params.social]
   #facebook      = "https://www.facebook.com/fabio.p.colinelli"
