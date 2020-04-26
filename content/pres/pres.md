@@ -6,12 +6,10 @@ image = "/img/press/prs0.jpg"
 showonlyimage = false
 weight = 0
 +++
-
+![](/img/press/p2.jpg) 
 <!--more-->
 
 ![](/img/press/prs1.jpg)
-
-![](/img/press/p2.jpg) 
 
 ![](/img/press/prs3.jpg)
 
