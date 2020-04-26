@@ -1,16 +1,15 @@
 +++
 date = "2020-01-01T19:00:00+00:00"
-title = "Fumetti & C."
+title = "Fumetti C."
 draft = false
-image = ""
+image = "img/fumetti/personaggio1.jpg"
 showonlyimage = false
 weight = 999
 +++
 
-Una carrellata di personaggi fumettosi.
-<!--more-->
+Una carrellata di personaggi fumettosi. 
 
-![](/img/fumetti/personaggio1.jpg)
+<!--more-->
 
 ![](/img/fumetti/personaggio2.jpg)
 
