@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,12 +8,37 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/hollywood/abstract/</loc>
+    <loc>https://www.fabiocolinelli.com/fumetti/abstract1/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/abstract/</loc>
+    <loc>https://www.fabiocolinelli.com/fumetti/abstract2/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/fumetti/abstract3/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/fumetti/abstract4/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/mostre/artusiana/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/mostre/beer/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/hollywood/abstract/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +48,27 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/hollywood/arancia/</loc>
+    <loc>https://www.fabiocolinelli.com/fumetti/abstract6/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/mostre/rivisti/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/fumetti/abstract5/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/mostre/sale/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/mostre/roccart/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -33,27 +78,42 @@
   </url>
   
   <url>
+    <loc>https://www.fabiocolinelli.com/pres/pres1/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/pres/pres2/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/pres/pres3/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/pres/pres4/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/merchandise/acpaola/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/modigliani/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/hollywood/arancia/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fabiocolinelli.com/fumetti/artusino/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/frida2/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/leonardo/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/vanghog/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/frida/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +128,12 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/gauguin/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.fabiocolinelli.com/hollywood/eldorado/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/ettore-e-andromaca/</loc>
+    <loc>https://www.fabiocolinelli.com/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +143,17 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/dali/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/hayez/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/frida/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/fumetti/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -98,12 +163,27 @@
   </url>
   
   <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/ettore-e-andromaca/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fabiocolinelli.com/hollywood/stars/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/klimt/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fabiocolinelli.com/fumetti/hogri/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/hollywood/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -118,31 +198,6 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/hayez/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/klimt/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/magritte/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/modigliani/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/modigliani2/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.fabiocolinelli.com/fumetti/re/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
@@ -153,7 +208,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/gioconda/</loc>
+    <loc>https://www.fabiocolinelli.com/hollywood/dolce/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -163,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/hollywood/dolce/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/leonardo/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -173,7 +228,22 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/modigliani3/</loc>
+    <loc>https://www.fabiocolinelli.com/hollywood/ribalta/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/magritte/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/merchandise/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/mostre/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -183,7 +253,22 @@
   </url>
   
   <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/cezanne/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/gauguin/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fabiocolinelli.com/hollywood/pirati/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/pres/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -193,12 +278,12 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/vanghog2/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/hayez2/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/dali/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -213,7 +298,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/manet/</loc>
+    <loc>https://www.fabiocolinelli.com/statue/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -228,7 +313,12 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/merchandise/acpaola/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/vanghog/</loc>
+    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/manet/</loc>
     <lastmod>2020-01-01T19:00:00+00:00</lastmod>
   </url>
   
@@ -238,27 +328,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/american/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/raffaello/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/ligabue1/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/ligabue2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/caravaggio/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/ligabue/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
@@ -268,27 +338,7 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/escher/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/picasso2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/matisse/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/picasso/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/klimt2/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/caravaggio/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
@@ -298,12 +348,37 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/caravaggio2/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/botero/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/botero1/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/giotto/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/american/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/matisse/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/jldavid/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/escher/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fabiocolinelli.com/rivisti/picasso/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
@@ -313,60 +388,16 @@
   </url>
   
   <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/botero/</loc>
+    <loc>https://www.fabiocolinelli.com/rivisti/raffaello/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.fabiocolinelli.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/fumetti/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/hollywood/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/merchandise/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/pres/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/rivisti/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fabiocolinelli.com/statue/</loc>
-    <lastmod>2020-01-01T19:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.fabiocolinelli.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mostres on Fabio Colinelli</title>
+    <link>https://www.fabiocolinelli.com/mostre/</link>
+    <description>Recent content in Mostres on Fabio Colinelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 01 Jan 2020 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.fabiocolinelli.com/mostre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aggiungi un posto a tavola</title>
+      <link>https://www.fabiocolinelli.com/mostre/artusiana/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/mostre/artusiana/</guid>
+      <description>&lt;p&gt;Esposizione collettiva insieme al Maestro Mario Bertozzi durante la festa Artusiana a Forlimpopoli.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Beer Street Public House</title>
+      <link>https://www.fabiocolinelli.com/mostre/beer/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/mostre/beer/</guid>
+      <description>&lt;p&gt;Esposizione all&amp;rsquo;interno del Beer Street Public House.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I RIVISTI</title>
+      <link>https://www.fabiocolinelli.com/mostre/rivisti/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/mostre/rivisti/</guid>
+      <description>&lt;p&gt;Prima esposizione personale nella galleria d&amp;rsquo;arte &amp;ldquo;a Casa di Paola&amp;rdquo; a Forlimpopoli.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Officine del Sale</title>
+      <link>https://www.fabiocolinelli.com/mostre/sale/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/mostre/sale/</guid>
+      <description>&lt;p&gt;Esposizione personale delle opere presso il ristorante &amp;ldquo;Officine del Sale&amp;rdquo; a Cervia.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>RoccArt 2020</title>
+      <link>https://www.fabiocolinelli.com/mostre/roccart/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/mostre/roccart/</guid>
+      <description>&lt;p&gt;Proiezione dei quadri sul torrione della Rocca albornoziana di Forlimpopoli all&amp;rsquo;interno della rassegna RoccArt 2020.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

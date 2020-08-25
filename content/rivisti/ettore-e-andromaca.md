@@ -1,13 +1,12 @@
 +++
 date = "2020-01-01T19:00:00+00:00"
-title = "Ettore e Andromaca"
+title = "Giorgio De Chirico"
 draft = false
 image = "img/rivisti/dechirico.jpg"
 showonlyimage = true
 weight = 0
 +++
 
-Giorgio De Chirico
-
 <!--more-->
+Ettore e Andromaca
 ![](/img/rivisti/dechirico.jpg)

@@ -1,14 +1,13 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Bevitore"
+title = "Autore sconosciuto"
 draft = false
 image = "/img/rivisti/teomondo.jpg"
 showonlyimage = true
 weight = 0
 +++
 
-Autore sconosciuto
 <!--more-->
-
+Bevitore
 ![](/img/rivisti/teomondo.jpg)
 

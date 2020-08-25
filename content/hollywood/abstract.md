@@ -1,14 +1,11 @@
 +++
 date = "2020-01-01T19:00:00+00:00"
-title = "Hollywood & C."
+title = "Edward mani di forbice"
 draft = false
 image = "img/hollywood/edward.jpg"
-showonlyimage = false
+showonlyimage = true
 weight = 999
 +++
-
-Hollywood & C. è un progetto che rivisita le locandine dei film. 
-
 <!--more-->
 
 ![](/img/hollywood/edward.jpg)

@@ -1,13 +1,12 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Bound of Union"
+title = "M. C. Escher"
 draft = false
 image = "/img/rivisti/escher.jpg"
 showonlyimage = true
 weight = 0
 +++
 
-M. C. Escher
 <!--more-->
-
+Bound of Union
 ![](/img/rivisti/escher.jpg)

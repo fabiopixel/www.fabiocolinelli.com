@@ -1,14 +1,18 @@
 +++
 date = "2020-01-01T19:00:00+00:00"
-title = "Autoritratto"
+title = "Leonardo Da Vinci"
 draft = false
-image = "img/rivisti/leonardo.jpg"
+image = "img/rivisti/gioconda.jpg"
 showonlyimage = true
 weight = 0
 +++
 
-Leonardo Da Vinci
-
 <!--more-->
+La Gioconda
+![](/img/rivisti/gioconda.jpg)
 
+Autoritratto
 ![](/img/rivisti/leonardo.jpg)
+
+Il Cenacolo
+![](/img/rivisti/leonardo2.jpg)

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pres on Fabio Colinelli</title>
@@ -12,13 +12,48 @@
     
     
     <item>
-      <title>Articoli ed eventi</title>
+      <title></title>
       <link>https://www.fabiocolinelli.com/pres/pres/</link>
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
       
       <guid>https://www.fabiocolinelli.com/pres/pres/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.fabiocolinelli.com/img/press/p2.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.fabiocolinelli.com/pres/pres1/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/pres/pres1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.fabiocolinelli.com/pres/pres2/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/pres/pres2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.fabiocolinelli.com/pres/pres3/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/pres/pres3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.fabiocolinelli.com/pres/pres4/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/pres/pres4/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statues on Fabio Colinelli</title>
@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Statue a fumetti</title>
+      <title>Fontana del Bacchino</title>
       <link>https://www.fabiocolinelli.com/statue/abstract/</link>
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
       
       <guid>https://www.fabiocolinelli.com/statue/abstract/</guid>
-      <description>&lt;p&gt;Le grandi statue in chiave fumettistica.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Valerio Cioli&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
       
       <guid>https://www.fabiocolinelli.com/statue/pieta/</guid>
-      <description>Michelangelo </description>
+      <description>&lt;p&gt;Michelangelo&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
       
       <guid>https://www.fabiocolinelli.com/statue/ratto/</guid>
-      <description>Gian Lorenzo Bernini </description>
+      <description>&lt;p&gt;Gian Lorenzo Bernini&lt;/p&gt;</description>
     </item>
     
   </channel>

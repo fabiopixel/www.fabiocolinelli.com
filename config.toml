@@ -59,6 +59,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Fumetti & C."
   url = "fumetti/"
+  
+   [[params.navlinks]]
+  name = "Mostre ed esposizioni"
+  url = "mostre/"
    
   [[params.navlinks]]
   name = "Merchandise"

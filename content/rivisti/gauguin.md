@@ -1,14 +1,12 @@
 +++
 date = "2020-01-01T19:00:00+00:00"
-title = "Due donne di Tahiti"
+title = "Paul Gauguin"
 draft = false
 image = "/img/rivisti/gauguin.jpg"
 showonlyimage = true
 weight = 0
 +++
 
-Paul Gauguin
-
 <!--more-->
-
+Due donne di Tahiti
 ![](/img/rivisti/gauguin.jpg)

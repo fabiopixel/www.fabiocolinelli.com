@@ -1,16 +1,13 @@
 +++
 date = "2020-01-01T19:00:00+00:00"
-title = "Statue a fumetti"
+title = "Fontana del Bacchino"
 draft = false
 image = "img/statue/bacco.jpg"
-showonlyimage = false
+showonlyimage = true
 weight = 999
 +++
 
-Le grandi statue in chiave fumettistica.
+Valerio Cioli
 
 <!--more-->
-Valerio Cioli
 ![](/img/statue/bacco.jpg)
-
-Fontana del Bacchino
