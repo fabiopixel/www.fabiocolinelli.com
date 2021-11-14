@@ -15,9 +15,3 @@ weight = 999
 ![](/img/fumetti/personaggio3.jpg)
 
 ![](/img/fumetti/personaggio4.jpg)
-
-![](/img/fumetti/veterinario.jpg)
-
-![](/img/fumetti/kiss.jpg)
-
-![](/img/fumetti/frank.jpg)
