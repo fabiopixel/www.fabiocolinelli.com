@@ -5,10 +5,6 @@
     <link>https://www.fabiocolinelli.com/categories/</link>
     <description>Recent content in Categories on Fabio Colinelli</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-it</language>
-    
-	<atom:link href="https://www.fabiocolinelli.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>it-it</language><atom:link href="https://www.fabiocolinelli.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

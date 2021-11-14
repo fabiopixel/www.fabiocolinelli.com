@@ -6,44 +6,13 @@
     <description>Recent content on Fabio Colinelli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Wed, 01 Jan 2020 19:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.fabiocolinelli.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 01 Jan 2020 19:00:00 +0000</lastBuildDate><atom:link href="https://www.fabiocolinelli.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://www.fabiocolinelli.com/fumetti/abstract/</link>
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
       
       <guid>https://www.fabiocolinelli.com/fumetti/abstract/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.fabiocolinelli.com/fumetti/abstract1/</link>
-      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
-      
-      <guid>https://www.fabiocolinelli.com/fumetti/abstract1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.fabiocolinelli.com/fumetti/abstract2/</link>
-      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
-      
-      <guid>https://www.fabiocolinelli.com/fumetti/abstract2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.fabiocolinelli.com/fumetti/abstract3/</link>
-      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
-      
-      <guid>https://www.fabiocolinelli.com/fumetti/abstract3/</guid>
       <description></description>
     </item>
     
@@ -135,6 +104,15 @@
       
       <guid>https://www.fabiocolinelli.com/mostre/roccart/</guid>
       <description>&lt;p&gt;Proiezione dei quadri sul torrione della Rocca albornoziana di Forlimpopoli all&amp;rsquo;interno della rassegna RoccArt 2020.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vernice Art Fair 2021</title>
+      <link>https://www.fabiocolinelli.com/mostre/vernice/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/mostre/vernice/</guid>
+      <description>&lt;p&gt;Stand personale a Vernice Art Fair 2021.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -408,6 +386,15 @@
     </item>
     
     <item>
+      <title>Michelangelo Buonarroti</title>
+      <link>https://www.fabiocolinelli.com/rivisti/michelangelo/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/rivisti/michelangelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Panzer</title>
       <link>https://www.fabiocolinelli.com/fumetti/panzer/</link>
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
@@ -458,6 +445,15 @@
       <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
       
       <guid>https://www.fabiocolinelli.com/rivisti/dali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandro Botticelli</title>
+      <link>https://www.fabiocolinelli.com/rivisti/botticelli/</link>
+      <pubDate>Wed, 01 Jan 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/rivisti/botticelli/</guid>
       <description></description>
     </item>
     
@@ -620,6 +616,15 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://www.fabiocolinelli.com/rivisti/renoir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pieter Bruegel il Vecchio</title>
+      <link>https://www.fabiocolinelli.com/rivisti/bruegel/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://www.fabiocolinelli.com/rivisti/bruegel/</guid>
       <description></description>
     </item>
     
