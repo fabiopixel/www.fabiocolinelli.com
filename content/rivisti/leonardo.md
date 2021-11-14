@@ -16,3 +16,6 @@ Autoritratto
 
 Il Cenacolo
 ![](/img/rivisti/leonardo2.jpg)
+
+L'Annunciazione
+![](/img/rivisti/leonardo3.jpg)
