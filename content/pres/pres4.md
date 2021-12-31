@@ -8,4 +8,4 @@ weight = 0
 +++
 <!--more-->
 
-![](/img/press/prs4.jpg)
+![](/img/press/vernice1.jpg)

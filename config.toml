@@ -61,6 +61,10 @@ googleAnalytics = "UA-185670281-1"
   name = "Fumetti & C."
   url = "fumetti/"
   
+  [[params.navlinks]]
+  name = "Richieste"
+  url = "richieste/"
+
    [[params.navlinks]]
   name = "Mostre ed esposizioni"
   url = "mostre/"
@@ -72,6 +76,10 @@ googleAnalytics = "UA-185670281-1"
   [[params.navlinks]]
   name = "Press"
   url = "pres/"
+
+  [[params.navlinks]]
+  name = "Premi e riconoscimenti"
+  url = "premi/"
   
   [[params.navlinks]]
   name = "About"

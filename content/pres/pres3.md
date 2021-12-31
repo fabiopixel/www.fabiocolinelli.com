@@ -8,4 +8,5 @@ weight = 0
 +++
 <!--more-->
 
-![](/img/press/prs3.jpg)
+![](/img/press/bazart1.jpg)
+![](/img/press/bazart2.jpg)
