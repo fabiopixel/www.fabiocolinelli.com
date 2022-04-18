@@ -10,3 +10,5 @@ weight = 0
 <!--more-->
 Due donne di Tahiti
 ![](/img/rivisti/gauguin.jpg)
+## Attuale location
+![](/img/rivisti/gauguin1.jpg)

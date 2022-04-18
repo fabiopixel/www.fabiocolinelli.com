@@ -10,3 +10,6 @@ weight = 0
 <!--more-->
 Trionfo della Morte
 ![](/img/rivisti/bruegel.jpg)
+
+Lotta tra Carnevale e Quaresima
+![](/img/rivisti/bruegel1.jpg)

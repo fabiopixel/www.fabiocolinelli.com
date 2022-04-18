@@ -7,5 +7,6 @@ showonlyimage = true
 weight = 0
 +++
 <!--more-->
+![](/img/premi/p1.jpg)
 
 ![](/img/premi/p1a.jpg)

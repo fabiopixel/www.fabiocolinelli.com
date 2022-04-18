@@ -9,3 +9,5 @@ weight = 999
 <!--more-->
 
 ![](/img/hollywood/edward.jpg)
+## Attuale location
+![](/img/hollywood/edward1.jpg)
